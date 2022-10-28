@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Chaitanya india finance- Home Page</title>
-<link href="images/chaitanyalogo.png" rel="logo">
+<link href="images/chaitanyalogo.png" rel="icon">
 </head>
 </head>
 <body>
