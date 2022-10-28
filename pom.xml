@@ -91,7 +91,7 @@
 			<scope>provided</scope>
 		</dependency>
 		
-		 <profiles>
+		 
         <profile>
             <id>sonar</id>
             <activation>
