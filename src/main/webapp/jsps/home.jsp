@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Chaitanya india finance- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<link href="images/" rel="">
 </head>
 </head>
 <body>
@@ -28,7 +28,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images/" alt="" width="">
 	</span>
 	<span style="font-weight: bold;">
 		Brigade Software Park, 27th Cross Rd, Banashankari Stage II, Banashankari, Bengaluru, Karnataka 560070
