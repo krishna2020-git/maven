@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Chaitanya india finance credit pvt ltd</h1>
+<h1 align="center">Welcome to Chaitanya India Finance Credit Pvt Ltd</h1>
 <h1 align="center"> Mithun Software Solutions- Very Good Training center for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
@@ -32,15 +32,15 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<span style="font-weight: bold;">
 		Brigade Software Park, 27th Cross Rd, Banashankari Stage II, Banashankari, Bengaluru, Karnataka 560070
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:Sandeep.kumar@chaitanya.in@gmail.com">Mail to SandeepKumar</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center>Chaitanya India Fin Credit is an NBFC-MFI arm of Navi Microfinance Group with a mission to make financial services simple, accessible and affordable. The company has its headquarters in Bengaluru. Chaitanya India is one of the fastest growing microfinance companies in Bangalore</p>
+<p align=center><small>Copyrights 2019 by <a href="https://www.chaitanyaindia.in/">Chaitanya Finance</a> </small></p>
 
 </body>
 </html>
