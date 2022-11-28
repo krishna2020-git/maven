@@ -4,13 +4,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<title>Chaitanya india finance- Home Page</title>
+<link href="images/chaitanyalogo.png" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Software Solutions.</h1>
-<h1 align="center"> Mithun Software Solutions- Very Good Training center for DevOps with AWS in Maratha Halli Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to Chaitanya India Finance Credit Pvt Ltd-2022</h1>
+<h1 align="center">Chaitanya India is a leading
+microfinance company in Bangalore,Karnataka</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -27,24 +28,20 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images/chaitanyalogo.png" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore,
-		+91-9980923226
-		devopstrainingblr@gmail.com
+		Brigade Software Park, 27th Cross Rd, Banashankari Stage II, Banashankari, Bengaluru, Karnataka 560070
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:Sandeep.kumar@chaitanya.in@gmail.com">Mail to SandeepKumar</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center>Chaitanya India Fin Credit is an NBFC-MFI arm of Navi Microfinance Group with a mission to make financial services simple, accessible and affordable. The company has its headquarters in Bengaluru. Chaitanya India is one of the fastest growing microfinance companies in Bangalore</p>
+<p align=center><small>Copyrights 2019 by <a href="https://www.chaitanyaindia.in/">Chaitanya Finance</a> </small></p>
 
 </body>
 </html>
