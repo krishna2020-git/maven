@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome DevopsMasterProgram. GitHub WebHook</h1>
-<h1 align="center"> Welcome to Mithun Software Solutions.......We have a demo on  DevOps Master Program on  14th August  2021  at 7 PM IST for new batch. , This is a weekdays batch  . MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
+<h1 align="center">Welcome DevopsMasterProgram. PollSCM</h1>
+	<h1 align="center"> Welcome to Philips Health Care project developed by <span>Vinay</span> and <span>Rakesh</span>.This project deals with health issues caused by the internal organs and took a clear report from MRI scans </h1>
 <hr>
 <div style="text-align: center;">
 	<span>
