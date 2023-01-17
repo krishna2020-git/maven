@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://44.201.145.32:8081/repository/Jenkins-Project-Release/</url>
+	      <url>http://52.202.103.237:8081/repository/Jenkins-Project-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.201.145.32:8081/repository/Jenkins-Project-Snapshot/</url>
+	      <url>http://52.202.103.237:8081/repository/Jenkins-Project-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
