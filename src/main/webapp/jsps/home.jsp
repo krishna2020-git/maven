@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome DevopsMasterProgram. GitwebhookDemo</h1>
-	<h1 align="center"> Welcome to Philips Health Care project developed by <span style="font-family:roboto;">Vinay</span> and <span style="font-family:roboto;">Rakesh</span>.This project deals with health issues caused by the internal organs and took a clear report from MRI scans and CT sacns </h1>
+	<h1 align="center"> Welcome to Philips Health Care project developed by <span style="font-family:roboto;">Vinay</span> and <span style="font-family:roboto;">Rakesh</span>.This project deals with health issues caused by the internal organs and took a clear report from MRI scans and CT sacns. Learning DevOps for 5 months </h1>
 <hr>
 <div style="text-align: center;">
 	<span>
