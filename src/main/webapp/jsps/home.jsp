@@ -17,9 +17,9 @@
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Software Solutions, 
-		Martha Halli,
-		Bangalore,
+		Philips Healthcare, 
+		BanjaraHills Road no-2,
+		Hyderbad,
 		+91-7013259522,
 		devopstrainingbr@gmail.com
 		<br>
