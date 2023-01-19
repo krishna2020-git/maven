@@ -15,6 +15,7 @@
 <div style="text-align: center;">
 	<span>
 		<img src="images/london-eye.jpg" alt="" width="100">
+		<img src="images/20220312134444_IMG_5107.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 		Philips Healthcare, 
